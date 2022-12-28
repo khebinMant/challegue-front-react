@@ -1,9 +1,9 @@
 <img src="./src/assets/kruger.png" height="50px">
 
-# Weather App
+# JPA App
 > Proyecto de Front end para el challengue de JPA
 
-<img src="./src/assets/content.png" height="300px">
+<img src="./src/assets/kruger.png" height="300px">
 
 
 ## Built with 
